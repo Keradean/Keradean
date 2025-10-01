@@ -27,8 +27,12 @@
   </tr>
 </table>
 </div>
+
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
 
 
 ---
