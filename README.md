@@ -1,11 +1,11 @@
-<div align="center"># 💫 About Me: </div>
+<div align="center"><h2>💫 About Me:</h2> </div>
 <br>
 👨🏻‍💻I'm a programming student with a focus on game and multimedia development. 
 <br>📍 Based in Germany, currently studying at SRH Fachschule Heidelberg.
 <br>🎮 I love building games and exploring creative tech.
 <br>🧪 Always working on small projects to level up my coding skills.
 
-<div align="center"># 💻 Tech Stack</div
+<div align="center"><h2>💻 Tech Stack</h2></div
 <br>
 <table>
   <tr>
