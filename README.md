@@ -1,11 +1,11 @@
-<div align="center"><h2>💫 About Me:</h2> </div>
+<div align="center"><h2>💫 About Me:</h2> 
 <br>
 👨🏻‍💻I'm a programming student with a focus on game and multimedia development. 
 <br>📍 Based in Germany, currently studying at SRH Fachschule Heidelberg.
 <br>🎮 I love building games and exploring creative tech.
 <br>🧪 Always working on small projects to level up my coding skills.
-
-<div align="center"><h2>💻 Tech Stack</h2></div
+</div>
+<div align="center"><h2>💻 Tech Stack</h2>
 <br>
 <table>
   <tr>
@@ -28,7 +28,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
