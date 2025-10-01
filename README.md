@@ -5,7 +5,6 @@
 <br>🧪 Always working on small projects to level up my coding skills.
 </div>
 <div align="center"><h2>💻 Tech Stack</h2>
-<br>
 <table>
   <tr>
     <td valign="top">
