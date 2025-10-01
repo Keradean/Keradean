@@ -4,7 +4,7 @@
 <br>🎮 I love building games and exploring creative tech.
 <br>🧪 Always working on small projects to level up my coding skills.
 </div>
-<div align="center"><h2>💻 Tech Stack</h2>
+<div align="center"><h2>💻 Tech Stack:</h2>
 <table>
   <tr>
     <td valign="top">
