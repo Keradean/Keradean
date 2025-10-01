@@ -1,5 +1,4 @@
 <div align="center"><h2>💫 About Me:</h2> 
-<br>
 👨🏻‍💻I'm a programming student with a focus on game and multimedia development. 
 <br>📍 Based in Germany, currently studying at SRH Fachschule Heidelberg.
 <br>🎮 I love building games and exploring creative tech.
