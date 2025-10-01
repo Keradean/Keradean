@@ -28,7 +28,7 @@
 </table>
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center"> 🏆 GitHub Trophies</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
