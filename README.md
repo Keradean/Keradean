@@ -34,7 +34,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Keradean&icon=0&color=0)](https://visitcount.itsvg.in)
 
