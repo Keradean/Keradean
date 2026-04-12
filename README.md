@@ -3,8 +3,9 @@
 <br>📍 Based in Germany, currently studying at SRH Fachschule Heidelberg.
 <br>🎮 I love building games and exploring creative tech.
 <br>🧪 Always working on small projects to level up my coding skills.
+<br>🌐 <a href="https://dennisdecol.de">dennisdecol.de</a> — Portfolio (Work in Progress)
+<br>💼 <a href="https://linkedin.com/in/dennis-de-col">linkedin.com/in/dennis-de-col</a>
 </div>
-
 <div align="center"><h2>💻 Tech Stack:</h2>
 <table>
   <tr>
@@ -17,19 +18,18 @@
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
       </p>
     </td>
-<td valign="top">
-  <h3>Game Dev & Creative Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E" alt="Aseprite" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/MagicaVoxel-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="MagicaVoxel" />
-  </p>
-</td>
+    <td valign="top">
+      <h3>Game Dev & Creative Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E" alt="Aseprite" />
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+        <img src="https://img.shields.io/badge/MagicaVoxel-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="MagicaVoxel" />
+      </p>
+    </td>
   </tr>
 </table>
-  ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-dennisdecol.de-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://dennisdecol.de)
-
-> 🚧 Work in progress – aber schon einiges zu sehen!
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Keradean&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
