@@ -17,24 +17,18 @@
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
       </p>
     </td>
-    <td valign="top">
-      <h3>Game Dev & Creative Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E" alt="Aseprite" />
-        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-      </p>
-    </td>
+<td valign="top">
+  <h3>Game Dev & Creative Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E" alt="Aseprite" />
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+    <img src="https://img.shields.io/badge/MagicaVoxel-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="MagicaVoxel" />
+  </p>
+</td>
   </tr>
 </table>
 </div>
-
-<div align="center"> <h2>🏆 GitHub Trophies:</h2></div>
-
-<p align="center">
- <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Keradean&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Keradean&icon=0&color=0)](https://visitcount.itsvg.in)
 
