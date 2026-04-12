@@ -28,4 +28,8 @@
 </td>
   </tr>
 </table>
+  ## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-dennisdecol.de-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://dennisdecol.de)
+
+> 🚧 Work in progress – aber schon einiges zu sehen!
 </div>
