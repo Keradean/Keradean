@@ -59,11 +59,3 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-<h3 align="center">📊 GitHub-Statistik</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keradean&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
